@@ -1,0 +1,331 @@
+:root {
+    --bg-navbar: #212121;
+}
+
+.navbar {
+    background-color: var(--bg-navbar);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    z-index: 1000;
+    width: 100%;
+    position: relative;
+}
+
+.navbar.fixed {
+    position: fixed;
+}
+
+.navbar.sticky {
+    background-color: #212121;
+    position: fixed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+    width: 140px;
+}
+
+.logo-big {
+    display: block;
+}
+
+.logo-small {
+    display: none;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    list-style: none;
+}
+
+.nav-link a {
+    color: #ddd;
+    text-decoration: none;
+    font-size: 26px;
+    transition: all 0.2s;
+    position: relative;
+    padding-bottom: 10px;
+    overflow: hidden;
+    display: block;
+}
+
+.nav-link a::after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateX(-105%);
+    transition: all 0.3s;
+}
+
+.nav-link a:not(a.active):hover {
+    color: #ccc;
+    opacity: 0.7;
+}
+
+.nav-link a.active {
+    color: #fff;
+}
+
+.nav-link a.active::after,
+.nav-link a:not(a.active):hover::after {
+    transform: translateX(0);
+}
+
+.nav-btns {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-search,
+.small-nav-close {
+    background-color: transparent;
+    width: 40px;
+    padding: 4px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+}
+
+.nav-search img {
+    width: 100%;
+    display: block;
+    transition: all 0.5s;
+}
+
+.nav-search:hover,
+.small-nav-close:hover {
+    opacity: 0.7;
+}
+
+.nav-search svg {
+    width: 100%;
+
+    display: none;
+    transition: all 0.5s;
+    fill: #fff;
+}
+
+.nav-search.nav-search-close {
+    padding: 6px;
+}
+
+.nav-search.nav-search-close img {
+    display: none;
+}
+
+.nav-search.nav-search-close svg {
+    display: block;
+}
+
+.nav-bars {
+    display: none;
+}
+
+.search-form {
+    position: absolute;
+    bottom: -85px;
+    left: 0;
+    padding: 20px 100px;
+    width: 100%;
+
+    background-color: inherit;
+    transform: translateY(-30%);
+    transition: all 0.4s;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.search-form-show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.search-form div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-form input {
+    width: 75%;
+    padding: 12px 30px;
+    font-size: 20px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border: 1px solid transparent;
+    outline: none;
+    color: var(--main-color);
+}
+
+.search-form input:focus {
+    border: 1px solid var(--main-color);
+}
+
+.search-btn {
+    background-color: var(--main-color);
+    padding: 4px 10px;
+    border: none;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    cursor: pointer;
+    border: 1px solid var(--main-color);
+
+    transition: all 0.3s;
+}
+
+.search-btn img {
+    width: 90%;
+}
+
+.disabled-link {
+    cursor: not-allowed;
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+.search-btn:not(.disabled-link):hover {
+    opacity: 0.8;
+}
+
+.small-nav {
+    display: none;
+}
+
+@media (max-width: 1100px) {
+    .nav-links {
+        display: none;
+    }
+
+    .nav-btns .login-btn {
+        display: none;
+    }
+
+    .nav-btns {
+        gap: 30px;
+    }
+
+    .nav-bars {
+        width: 40px;
+        background-color: inherit;
+        border: none;
+        padding: 4px;
+        display: flex;
+    }
+
+    .nav-bars svg {
+        width: 100%;
+        fill: #fff;
+    }
+
+    .small-nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        height: 100vh;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        padding: 20px 40px 60px;
+        backdrop-filter: blur(10px);
+
+        transform: translateX(-100%);
+        transition: all 0.5s linear;
+    }
+
+    .small-nav-top {
+        align-self: stretch;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .small-nav .nav-links {
+        display: flex;
+        flex-direction: column;
+        gap: 26px;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .small-nav .login-btn {
+        align-self: center;
+    }
+
+    .small-nav-close svg {
+        fill: #fff;
+    }
+
+    .small-nav.small-nav-open {
+        transform: translateX(0);
+    }
+}
+
+@media (max-width: 800px) {
+    .navbar {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .search-form {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .search-form input {
+        width: 100%;
+    }
+
+    .search-btn {
+        padding: 7px 8px;
+    }
+}
+
+@media (max-width: 375px) {
+    .navbar {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .small-nav {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .nav-btns {
+        gap: 10px;
+    }
+
+    .logo {
+        width: 30px;
+    }
+
+    .logo-big {
+        display: none;
+    }
+
+    .logo-small {
+        display: block;
+    }
+}

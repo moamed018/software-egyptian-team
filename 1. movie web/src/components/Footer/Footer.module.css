@@ -1,0 +1,64 @@
+.footer {
+    background-color: #f5f5f5;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.logo {
+    width: 240px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact ul {
+    list-style: none;
+    display: flex;
+    gap: 36px;
+    margin-bottom: 26px;
+}
+
+.contact ul li {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: all 0.2s;
+}
+
+.contact ul li:hover {
+    filter: blur(1px);
+}
+
+.contact ul li a img {
+    width: 100%;
+}
+
+.contact > a {
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+@media (max-width: 600px) {
+    .footer {
+        flex-direction: column;
+    }
+
+    .logo {
+        width: 200px;
+    }
+
+    .contact ul {
+        gap: 16px;
+    }
+}

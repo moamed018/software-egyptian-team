@@ -1,0 +1,4093 @@
+{
+    "genres": [
+        "action",
+        "horror",
+        "carton",
+        "comedic",
+        "historic",
+        "music",
+        "war"
+    ],
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/kZU3R3mBKGLn1oT6yoRPvUkUD4T.jpg",
+            "genre": "music",
+            "genre_ids": [
+                18,
+                10749,
+                10402
+            ],
+            "id": 884535,
+            "original_language": "pt",
+            "original_title": "Um Ano Inesquecível - Outono",
+            "overview": "An ambitious law student who hates music needs to make a perfect plan to get hired at the office she interns at – until she meets a charming singer who shakes her life. While she's living her first love, she needs to face her own past and decide what's more important: do what she loves or learn to love what she does.",
+            "popularity": 187.028,
+            "poster_path": "/m2nhmSE3QnXcA8aijq1iMFmkLkE.jpg",
+            "release_date": "2023-06-08",
+            "type": "movie",
+            "title": "An Unforgettable Year – Autumn",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6BI1XjPNT5VYEJ4vXkdyuiKLMYt.jpg",
+            "genre": "music",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "id": 1119173,
+            "original_language": "da",
+            "original_title": "A Beautiful Life",
+            "overview": "When a young fisherman with a hidden talent gets discovered by a music producer, he must decide if he's ready to open himself up to stardom — and love.",
+            "popularity": 148.713,
+            "poster_path": "/x6PvT4HAkK7phdj54Zao8rY5oBT.jpg",
+            "release_date": "2023-06-01",
+            "type": "movie",
+            "title": "A Beautiful Life",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tU3mnpFLOAp2Ia6vHvGIw8ewJQb.jpg",
+            "genre": "music",
+            "genre_ids": [
+                10402
+            ],
+            "id": 1041513,
+            "original_language": "en",
+            "original_title": "Encanto at the Hollywood Bowl",
+            "overview": "A taped performance of the Encanto Live-to-Film Concert Experience at the Hollywood Bowl. The original cast puts on a miracle of a concert as they sing the favorite songs, accompanied by a full orchestra and 50 person ensemble, and the Hollywood Bowl transforms into Casita!",
+            "popularity": 146.267,
+            "poster_path": "/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg",
+            "release_date": "2022-12-28",
+            "type": "movie",
+            "title": "Encanto at the Hollywood Bowl",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 569094,
+            "original_language": "en",
+            "original_title": "Spider-Man: Across the Spider-Verse",
+            "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+            "popularity": 2410.54,
+            "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+            "release_date": "2023-05-31",
+            "type": "movie",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 1339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                35
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+            "popularity": 2386.685,
+            "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+            "release_date": "2023-04-05",
+            "type": "movie",
+            "title": "The Super Mario Bros. Movie",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jqwM0nhOLEFI1HHBabwr80Od3TC.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 324857,
+            "original_language": "en",
+            "original_title": "Spider-Man: Into the Spider-Verse",
+            "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+            "popularity": 738.323,
+            "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "release_date": "2018-12-06",
+            "type": "movie",
+            "title": "Spider-Man: Into the Spider-Verse",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 13129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                35
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+            "popularity": 2386.685,
+            "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+            "release_date": "2023-04-05",
+            "type": "movie",
+            "title": "The Super Mario Bros. Movie",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 4737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r2tDSD6kcHflPzsGepl8aTPTWxy.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 879444,
+            "original_language": "en",
+            "original_title": "Accident Man: Hitman's Holiday",
+            "overview": "The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
+            "popularity": 819.322,
+            "poster_path": "/npW9nfL7F3ZVpaCpabqo98KTLw6.jpg",
+            "release_date": "2022-10-14",
+            "type": "movie",
+            "title": "Accident Man: Hitman's Holiday",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/28WypBR9DhbHyhmDhgxQLmkf5aQ.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                28,
+                14
+            ],
+            "id": 594767,
+            "original_language": "en",
+            "original_title": "Shazam! Fury of the Gods",
+            "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+            "popularity": 614.632,
+            "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+            "release_date": "2023-03-15",
+            "type": "movie",
+            "title": "Shazam! Fury of the Gods",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1951
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12,
+                35
+            ],
+            "id": 315162,
+            "original_language": "en",
+            "original_title": "Puss in Boots: The Last Wish",
+            "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+            "popularity": 528.906,
+            "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+            "release_date": "2022-12-07",
+            "type": "movie",
+            "title": "Puss in Boots: The Last Wish",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 5733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vBI0k6Z5qxzjWTAjHjcDvsOlZdE.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                10751,
+                16,
+                12
+            ],
+            "id": 1109207,
+            "original_language": "en",
+            "original_title": "Taz: Quest for Burger",
+            "overview": "After an outlaw abducts her father and steals her town’s food supply, a feisty adolescent bandicoot named Quinn recruits the Tasmanian Devil to help her find the thief. Taz may be an ill-tempered rogue with a fearsome reputation, but he and Quinn will have to work together to track the criminal through the wilds of Tasmania and save her community.",
+            "popularity": 402.387,
+            "poster_path": "/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",
+            "release_date": "2023-06-06",
+            "type": "movie",
+            "title": "Taz: Quest for Burger",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h7gJlE3CJAdEbM5R6O2qGVsHEbL.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                28,
+                35,
+                10749
+            ],
+            "id": 868759,
+            "original_language": "en",
+            "original_title": "Ghosted",
+            "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+            "popularity": 448.898,
+            "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+            "release_date": "2023-04-18",
+            "type": "movie",
+            "title": "Ghosted",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uH1cuq2hmZn5B4oiR9a1l4Wy91I.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                28,
+                18,
+                12
+            ],
+            "id": 931102,
+            "original_language": "zh",
+            "original_title": "Long ma jing shen",
+            "overview": "The once beautiful, now down-and-out Dragon Tiger martial artist Lao Luo lives with his beloved horse, Red Rabbit. Due to a debt dispute involving Red Rabbit, he is faced with the crisis of \"father-son separation\". In desperation, Lao Luo asks his daughter Bao and her boyfriend Naihua, who have misunderstood him for years, for help. On the road of self-help of three people and one horse, they make a lot of jokes and gradually get closer to each other.",
+            "popularity": 379.957,
+            "poster_path": "/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg",
+            "release_date": "2023-04-07",
+            "type": "movie",
+            "title": "Ride On",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oblUNeHlwV3VsjB5ITMlco5ZSOF.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                12,
+                14,
+                35
+            ],
+            "id": 493529,
+            "original_language": "en",
+            "original_title": "Dungeons & Dragons: Honor Among Thieves",
+            "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+            "popularity": 365.385,
+            "poster_path": "/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
+            "release_date": "2023-03-23",
+            "type": "movie",
+            "title": "Dungeons & Dragons: Honor Among Thieves",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1693
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Yuf6j6N76SfqRWqT0I0ZUjICc2.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+            "popularity": 320.367,
+            "poster_path": "/8riWcADI1ekEiBguVB9vkilhiQm.jpg",
+            "release_date": "2023-06-14",
+            "type": "movie",
+            "title": "Elemental",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aPvIX46VtxZDwu5bB2UcJ7xdpxs.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "id": 977223,
+            "original_language": "en",
+            "original_title": "Polite Society",
+            "overview": "Martial artist-in-training Ria Khan believes she must save her older sister Lena from her impending marriage. After enlisting the help of her friends, Ria attempts to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.",
+            "popularity": 252.04,
+            "poster_path": "/lv1WqAo2ulQy9aSOG7ikR44p8RR.jpg",
+            "release_date": "2023-04-27",
+            "type": "movie",
+            "title": "Polite Society",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ZRSDh5GootTeo2gAdOyUDosCmm.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 638974,
+            "original_language": "en",
+            "original_title": "Murder Mystery 2",
+            "overview": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
+            "popularity": 290.277,
+            "poster_path": "/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
+            "release_date": "2023-03-28",
+            "type": "movie",
+            "title": "Murder Mystery 2",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c3hl9E8E7b9opXDFVF5tSyk0ykr.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12,
+                14
+            ],
+            "id": 816904,
+            "original_language": "es",
+            "original_title": "Momias",
+            "overview": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+            "popularity": 263.506,
+            "poster_path": "/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg",
+            "release_date": "2023-01-05",
+            "type": "movie",
+            "title": "Mummies",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8K9UjencUfDVS4nKFmSk4URSoeU.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                53,
+                35,
+                80
+            ],
+            "id": 804150,
+            "original_language": "en",
+            "original_title": "Cocaine Bear",
+            "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+            "popularity": 257.498,
+            "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+            "release_date": "2023-02-22",
+            "type": "movie",
+            "title": "Cocaine Bear",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qAfGVKCOg1ueNFOA9KL85lo9zox.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 1016121,
+            "original_language": "en",
+            "original_title": "Beautiful Disaster",
+            "overview": "Bad-boy Travis is exactly what college freshman Abby needs and wants to avoid. He spends his nights fighting in underground boxing matches, and his days as the ultimate college campus charmer. But Abby wants nothing to do with Travis. Intrigued by Abby’s resistance, Travis offers her a simple bet: if he loses his next fight, he must remain sex-free for a month. If he wins, Abby must live in his apartment for the same amount of time. Either way, Travis has no idea that Abby’s dark past is about to emerge, and he may have finally met his match.",
+            "popularity": 271.076,
+            "poster_path": "/bwdLflvCcOCRPqb1x13KPuYIzVx.jpg",
+            "release_date": "2023-04-04",
+            "type": "movie",
+            "title": "Beautiful Disaster",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 255
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vL5zdAKAnbcHjoewXoP4xy6ihf7.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                10751,
+                878,
+                35
+            ],
+            "id": 1121116,
+            "original_language": "en",
+            "original_title": "Maggie Simpson in \"Rogue Not Quite One\"",
+            "overview": "On their way to daycare, Homer loses track of Maggie who hops in Grogu’s hovering pram for a hyperspace-hopping adventure across the galaxy. Facing a squadron of Imperial TIE fighters, Maggie brings the battle to Springfield in this epic short celebrating all things Star Wars.",
+            "popularity": 207.285,
+            "poster_path": "/gmTOhwzcSbEGG3xKRfQwwS2BTXD.jpg",
+            "release_date": "2023-05-04",
+            "type": "movie",
+            "title": "Maggie Simpson in \"Rogue Not Quite One\"",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wP28rWRjcD1994uSLXAg0MZmUK7.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                35
+            ],
+            "id": 790496,
+            "original_language": "ro",
+            "original_title": "Babardeala cu bucluc sau porno balamuc",
+            "overview": "Emi, a school teacher, finds her career and reputation under threat after a personal sex tape is leaked on the Internet. Forced to meet the parents demanding her dismissal, Emi refuses to surrender to their pressure.",
+            "popularity": 249.132,
+            "poster_path": "/zUTkjET8VUwvbvSHtn0Lou7xwyZ.jpg",
+            "release_date": "2021-04-29",
+            "type": "movie",
+            "title": "Bad Luck Banging or Loony Porn",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                27,
+                14
+            ],
+            "id": 649609,
+            "original_language": "en",
+            "original_title": "Renfield",
+            "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "popularity": 248.713,
+            "poster_path": "/2OaprROMZZeiWsydjGUIkXrv2Z3.jpg",
+            "release_date": "2023-04-07",
+            "type": "movie",
+            "title": "Renfield",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRggdawsxvOZaNwS2ZdFGRS1FK9.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 1014501,
+            "original_language": "en",
+            "original_title": "Grotesque",
+            "overview": "Mildred Moyer transforms from shy misfit to loveable psychopath when her back-alley plastic surgery is botched. Mildred finds herself living her best life as she unleashes brutal vengeance on all those who tormented her in the past.",
+            "popularity": 209.25,
+            "poster_path": "/eoMsojXOiO18leSgHHOxzYOtG5o.jpg",
+            "release_date": "2022-07-30",
+            "type": "movie",
+            "title": "Grotesque",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jv9WTuEk7kW8JxgpjQ872CyiifP.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 758336,
+            "original_language": "en",
+            "original_title": "Love Again",
+            "overview": "Mira Ray, dealing with the loss of her fiancé, sends a series of romantic texts to his old cell phone number… not realizing the number was reassigned to Rob Burns' new work phone. A journalist, Rob is captivated by the honesty in the beautifully confessional texts. When he’s assigned to write a profile of megastar Céline Dion, he enlists her help in figuring out how to meet Mira in person and win her heart.",
+            "popularity": 183.373,
+            "poster_path": "/wlNiPbSFeCOAcS5esNudrZGxoa6.jpg",
+            "release_date": "2023-05-04",
+            "type": "movie",
+            "title": "Love Again",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bJO6pHIUvyOeW52G2P5YRpGv5u9.jpg",
+            "genre": "comedic",
+            "genre_ids": [
+                28,
+                35,
+                27,
+                53
+            ],
+            "id": 8869,
+            "original_language": "en",
+            "original_title": "Eight Legged Freaks",
+            "overview": "The residents of a rural mining town discover that an unfortunate chemical spill has caused hundreds of little spiders to mutate overnight to the size of SUVs. It's then up to mining engineer Chris McCormack and Sheriff Sam Parker to mobilize an eclectic group of townspeople, including the Sheriff's young son, Mike, her daughter, Ashley, and paranoid radio announcer Harlan, into battle against the bloodthirsty eight-legged beasts.",
+            "popularity": 210.835,
+            "poster_path": "/1hf7x6WmyXtL1MlY4eSlTbZ8Nzu.jpg",
+            "release_date": "2002-07-17",
+            "type": "movie",
+            "title": "Eight Legged Freaks",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 1060
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12,
+                35
+            ],
+            "id": 315162,
+            "original_language": "en",
+            "original_title": "Puss in Boots: The Last Wish",
+            "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+            "popularity": 528.906,
+            "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+            "release_date": "2022-12-07",
+            "type": "movie",
+            "title": "Puss in Boots: The Last Wish",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 5733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vBI0k6Z5qxzjWTAjHjcDvsOlZdE.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                35,
+                10751,
+                16,
+                12
+            ],
+            "id": 1109207,
+            "original_language": "en",
+            "original_title": "Taz: Quest for Burger",
+            "overview": "After an outlaw abducts her father and steals her town’s food supply, a feisty adolescent bandicoot named Quinn recruits the Tasmanian Devil to help her find the thief. Taz may be an ill-tempered rogue with a fearsome reputation, but he and Quinn will have to work together to track the criminal through the wilds of Tasmania and save her community.",
+            "popularity": 402.387,
+            "poster_path": "/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",
+            "release_date": "2023-06-06",
+            "type": "movie",
+            "title": "Taz: Quest for Burger",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jAmmb9RApuRckDJtYWeOgBUgQyG.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                878
+            ],
+            "id": 893712,
+            "original_language": "ja",
+            "original_title": "劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
+            "overview": "Over a month has passed since 10,000 users were trapped inside the \"Sword Art Online\" world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but conflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings…",
+            "popularity": 446.997,
+            "poster_path": "/2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg",
+            "release_date": "2022-10-22",
+            "type": "movie",
+            "title": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9SICXMeX0v0gr5czpoRO5I0U7M9.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                10751,
+                16,
+                14
+            ],
+            "id": 1118203,
+            "original_language": "en",
+            "original_title": "The Swan Princess: A Fairytale Is Born",
+            "overview": "Before becoming queen, Uberta lived a humble life with her husband Maximillian when she is suddenly thrust into royalty. Through triumph and tragedy, she learns the lessons needed to become a beloved Queen, all while raising the next generation of rulers. When it's time for Uberta to pass the royal scepter to Odette and Derek, rival Queen Wixom has plans of her own to ruin the kingdom's greatest coronation.",
+            "popularity": 287.308,
+            "poster_path": "/2axXVpi3dKfESWzgncbakLB7o7f.jpg",
+            "release_date": "2023-05-23",
+            "type": "movie",
+            "title": "The Swan Princess: A Fairytale Is Born",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Yuf6j6N76SfqRWqT0I0ZUjICc2.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+            "popularity": 320.367,
+            "poster_path": "/8riWcADI1ekEiBguVB9vkilhiQm.jpg",
+            "release_date": "2023-06-14",
+            "type": "movie",
+            "title": "Elemental",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ceYZCBfwbBwSpGJ6PapNVw5jqLG.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                18,
+                12,
+                14
+            ],
+            "id": 916224,
+            "original_language": "ja",
+            "original_title": "すずめの戸締まり",
+            "overview": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+            "popularity": 312.661,
+            "poster_path": "/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",
+            "release_date": "2022-11-11",
+            "type": "movie",
+            "title": "Suzume",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c3hl9E8E7b9opXDFVF5tSyk0ykr.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12,
+                14
+            ],
+            "id": 816904,
+            "original_language": "es",
+            "original_title": "Momias",
+            "overview": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+            "popularity": 263.506,
+            "poster_path": "/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg",
+            "release_date": "2023-01-05",
+            "type": "movie",
+            "title": "Mummies",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vL5zdAKAnbcHjoewXoP4xy6ihf7.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10751,
+                878,
+                35
+            ],
+            "id": 1121116,
+            "original_language": "en",
+            "original_title": "Maggie Simpson in \"Rogue Not Quite One\"",
+            "overview": "On their way to daycare, Homer loses track of Maggie who hops in Grogu’s hovering pram for a hyperspace-hopping adventure across the galaxy. Facing a squadron of Imperial TIE fighters, Maggie brings the battle to Springfield in this epic short celebrating all things Star Wars.",
+            "popularity": 207.285,
+            "poster_path": "/gmTOhwzcSbEGG3xKRfQwwS2BTXD.jpg",
+            "release_date": "2023-05-04",
+            "type": "movie",
+            "title": "Maggie Simpson in \"Rogue Not Quite One\"",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                878,
+                14
+            ],
+            "id": 911916,
+            "original_language": "en",
+            "original_title": "Spider-Man: Beyond the Spider-Verse",
+            "overview": "The final chapter of Miles Morales and the many other Spider-People from different realities.",
+            "popularity": 250.52,
+            "poster_path": "/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg",
+            "release_date": "2024-03-27",
+            "type": "movie",
+            "title": "Spider-Man: Beyond the Spider-Verse",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1PQqvw7wnGeWqvXcBLaGK46n0zk.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                14,
+                28,
+                10751,
+                10749
+            ],
+            "id": 496450,
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite, Cat Noir, to save Paris as a new villain unleashes chaos unto the city.",
+            "popularity": 222.533,
+            "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+            "release_date": "2023-07-05",
+            "type": "movie",
+            "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4w2uPtIo0lFSnQnWg0zVAqPJCLP.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 10144,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+            "popularity": 205.104,
+            "poster_path": "/Amwq3yJP4VblXUptDAV7S13smCd.jpg",
+            "release_date": "1989-11-17",
+            "type": "movie",
+            "title": "The Little Mermaid",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nBwsJTcTE0LnaPAmFOECXTzEJwA.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                28,
+                53,
+                878
+            ],
+            "id": 25565,
+            "original_language": "en",
+            "original_title": "Transformers: Beginnings",
+            "overview": "On their home planet of Cybertron, the Autobots and Decepticons are involved in an explosive battle over the coveted AllSpark. With the fate of the universe at stake, the Autobots send it far from the reaches of the ruthless Megatron, leader of the Decepticons. But there are even more surprises in store when it crash-lands on Earth.",
+            "popularity": 187.61,
+            "poster_path": "/q61s5H2DRHSJYx75adOtTL3aFuY.jpg",
+            "release_date": "2006-10-16",
+            "type": "movie",
+            "title": "Transformers: Beginnings",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g03h9TULzJZOoXA34Abp5LE7lvt.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                14,
+                12
+            ],
+            "id": 876792,
+            "original_language": "ja",
+            "original_title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+            "overview": "A long-running conspiracy is swirling over a mysterious power wielded by the Queen in Raja, a small country west of Tempest. When a slime who evolved into a Demon Lord named Rimuru Tempest crosses paths with Hiiro, a survivor of the Ogre race, an incredible adventure packed with new characters begins. The power of bonds will be put to the test!",
+            "popularity": 178.027,
+            "poster_path": "/xITip9n9uMAUA0TU6niMXU2tbh0.jpg",
+            "release_date": "2022-11-25",
+            "type": "movie",
+            "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vgzHkWaj7HLCjizRzyO1Y0uE7e2.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 997776,
+            "original_language": "en",
+            "original_title": "Justice League x RWBY: Super Heroes & Huntsmen, Part One",
+            "overview": "Superman, Batman, Wonder Woman, Flash, Cyborg, Green Lantern and Vixen are transported to the strange world of Remnant and find themselves turned into teenagers. Meanwhile, Remnant heroes Ruby, Weiss, Blake and Yang must combine forces with the Justice League to uncover why their planet has been mysteriously altered before a superpowered Grimm destroys everything.",
+            "popularity": 167.427,
+            "poster_path": "/sjBFnG8DpouuWi161KbjbAER235.jpg",
+            "release_date": "2023-04-25",
+            "type": "movie",
+            "title": "Justice League x RWBY: Super Heroes & Huntsmen, Part One",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gNOyIDGW8YY6AYbz6nMvrVSHSXs.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "id": 776835,
+            "original_language": "en",
+            "original_title": "The Magician's Elephant",
+            "overview": "Peter is searching for his long-lost sister when he crosses paths with a fortune teller in the market square. His one one question is: is his sister still alive? The answer, that he must find a mysterious elephant and the magician who will conjure it, sets Peter off on a journey to complete three seemingly impossible tasks that will change the face of his town forever.",
+            "popularity": 136.411,
+            "poster_path": "/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg",
+            "release_date": "2023-03-10",
+            "type": "movie",
+            "title": "The Magician's Elephant",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                18,
+                10751
+            ],
+            "id": 869626,
+            "original_language": "en",
+            "original_title": "Marcel the Shell with Shoes On",
+            "overview": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. But when a documentary filmmaker discovers them amongst the clutter of his Airbnb, the short film he posts online brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+            "popularity": 142.575,
+            "poster_path": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+            "release_date": "2022-06-24",
+            "type": "movie",
+            "title": "Marcel the Shell with Shoes On",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "popularity": 169.39,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-10-13",
+            "type": "movie",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 8281
+        },
+        {
+            "backdrop_path": "/fEP2Sha3PXJnAcoGOjr5oybq44Q.jpg",
+            "first_air_date": "2023-05-08",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "id": 134224,
+            "name": "Voltes V: Legacy",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Voltes V: Legacy",
+            "overview": "Voltes V: Legacy follows the story of three brothers, Steve, Big Bert, and Little Jon Armstrong, and their friends Jamie Robinson and Mark Gordon, as they fight the forces of humanoid aliens known as Boazanians who plans to invade the earth and launch their beast fighters all over the world.",
+            "popularity": 3310.917,
+            "poster_path": "/jZ32tdCTFsRoU2GehW6ZzSpTyS1.jpg",
+            "vote_average": 4.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2e7fc8eNwLXZ5Uvehvl3xj8wVyv.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 385687,
+            "original_language": "en",
+            "original_title": "Fast X",
+            "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "popularity": 11557.896,
+            "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+            "release_date": "2023-05-17",
+            "type": "movie",
+            "title": "Fast X",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1540
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1inZm0xxXrpRfN0LxwE2TXzyLN6.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 603692,
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "popularity": 3046.463,
+            "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+            "release_date": "2023-03-22",
+            "type": "movie",
+            "title": "John Wick: Chapter 4",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 2990
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 569094,
+            "original_language": "en",
+            "original_title": "Spider-Man: Across the Spider-Verse",
+            "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+            "popularity": 2410.54,
+            "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+            "release_date": "2023-05-31",
+            "type": "movie",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 1339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9NgtktUFLm9cnFDFaekx2ROh84f.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+            "popularity": 1652.652,
+            "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+            "release_date": "2023-06-06",
+            "type": "movie",
+            "title": "Transformers: Rise of the Beasts",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kIX6VS5FTMURcK3WlNNkPss60e4.jpg",
+            "genre": "action",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 298618,
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+            "popularity": 1172.081,
+            "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+            "release_date": "2023-06-13",
+            "type": "movie",
+            "title": "The Flash",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6fYTLy4QE55BgMiHF3Co7bErjry.jpg",
+            "genre": "action",
+            "genre_ids": [
+                10752,
+                53,
+                28,
+                12,
+                9648,
+                878,
+                18
+            ],
+            "id": 1018494,
+            "original_language": "en",
+            "original_title": "Operation Seawolf",
+            "overview": "During the last days of World War II, Germany, desperate for any last grasp to defeat the allied powers, looked to their last remaining weapons and soldiers. The German Navy and the last remaining U-Boats were formed together for one desperate last mission – a mission to attack the United States Homeland, known as Operation Seawolf. Captain Hans Kessler, a grizzled submarine commander from both World Wars, is called into service to make one mission a success and help turn the tide of the war.",
+            "popularity": 878.545,
+            "poster_path": "/eqm5EAyC9hJCN5qutuW4Ka1xYbU.jpg",
+            "release_date": "2022-10-07",
+            "type": "movie",
+            "title": "Operation Seawolf",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5gPQKfFJnl8d1edbkOzKONo4mnr.jpg",
+            "genre": "action",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 76600,
+            "original_language": "en",
+            "original_title": "Avatar: The Way of Water",
+            "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "popularity": 1099.345,
+            "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            "release_date": "2022-12-14",
+            "type": "movie",
+            "title": "Avatar: The Way of Water",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 8560
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94TIUEhuwv8PhdIADEvSuwPljS5.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                10752
+            ],
+            "id": 840326,
+            "original_language": "fi",
+            "original_title": "Sisu",
+            "overview": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+            "popularity": 871.471,
+            "poster_path": "/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+            "release_date": "2023-01-27",
+            "type": "movie",
+            "title": "Sisu",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 679
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 640146,
+            "original_language": "en",
+            "original_title": "Ant-Man and the Wasp: Quantumania",
+            "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+            "popularity": 850.735,
+            "poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+            "release_date": "2023-02-15",
+            "type": "movie",
+            "title": "Ant-Man and the Wasp: Quantumania",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+            "genre": "action",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 447365,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 3",
+            "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "popularity": 943.466,
+            "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+            "release_date": "2023-05-03",
+            "type": "movie",
+            "title": "Guardians of the Galaxy Vol. 3",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1961
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dTsOvK19Brm1u2p06K7qlTyKHIi.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                10752,
+                53
+            ],
+            "id": 1074034,
+            "original_language": "en",
+            "original_title": "Ambush",
+            "overview": "When a small outpost is ambushed, a US Army squad must take the battle below ground on a high-stakes mission in a new type of warfare the likes of which they have never seen.",
+            "popularity": 1307.412,
+            "poster_path": "/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg",
+            "release_date": "2023-02-24",
+            "type": "movie",
+            "title": "Ambush",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oUeqFfImkFDRxTjwhS6KZ5MB8lL.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 1098110,
+            "original_language": "de",
+            "original_title": "Blood & Gold",
+            "overview": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+            "popularity": 727.523,
+            "poster_path": "/xayG1dbIjJkmvimekx6TNrMOXmA.jpg",
+            "release_date": "2023-04-21",
+            "type": "movie",
+            "title": "Blood & Gold",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r2tDSD6kcHflPzsGepl8aTPTWxy.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 879444,
+            "original_language": "en",
+            "original_title": "Accident Man: Hitman's Holiday",
+            "overview": "The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
+            "popularity": 819.322,
+            "poster_path": "/npW9nfL7F3ZVpaCpabqo98KTLw6.jpg",
+            "release_date": "2022-10-14",
+            "type": "movie",
+            "title": "Accident Man: Hitman's Holiday",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "id": 799379,
+            "original_language": "ko",
+            "original_title": "늑대사냥",
+            "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+            "popularity": 710.134,
+            "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+            "release_date": "2022-09-21",
+            "type": "movie",
+            "title": "Project Wolf Hunting",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gFiPQZh6W2qEVKYnAQjtq66qJqI.jpg",
+            "genre": "action",
+            "genre_ids": [
+                53,
+                18,
+                28
+            ],
+            "id": 1107872,
+            "original_language": "pl",
+            "original_title": "Dzień Matki",
+            "overview": "Nina, a former NATO special operations agent living in hiding, has to use all her deadly skills to rescue her son who has been kidnapped by ruthless gangsters. Finding Max is a double opportunity for her. A chance to feel the adrenaline rush again, and an opportunity to get back into the life of the son she had to abandon years ago.",
+            "popularity": 700.364,
+            "poster_path": "/wws9Z90DdZ7D0n3gdzFSZ6cntJi.jpg",
+            "release_date": "2023-05-24",
+            "type": "movie",
+            "title": "Mother's Day",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ArKDl3GsFpSdDNFnXftNexuEVGF.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "id": 1073140,
+            "original_language": "en",
+            "original_title": "The Three Musketeers",
+            "overview": "France is in turmoil and a new, naive King finds himself manipulated by the evil Cardinal Richelieu. With a corrupt commander of the royal guard by his side the Cardinal employs the expertise of the devious and wicked Milady de Winter in a plot to bring down the monarchy and drag the country into war. As France burns the Cardinal will take control. All that stands between them and victory are the remnants of an elite group who wore loyalty to crown and country. Above all else The Musketeers will stand against the odds to foil this deadly plot.",
+            "popularity": 730.569,
+            "poster_path": "/l72yy6rPzsH8eHhEOknxlipkV95.jpg",
+            "release_date": "2023-03-23",
+            "type": "movie",
+            "title": "The Three Musketeers",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 29
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/T5xXoFqyc9jNXZIbH4Sw0jwWjw.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                9648
+            ],
+            "id": 605886,
+            "original_language": "en",
+            "original_title": "To Catch a Killer",
+            "overview": "Baltimore. New Year's Eve. A talented but troubled police officer is recruited by the FBI's chief investigator to help profile and track down a mass murderer.",
+            "popularity": 657.471,
+            "poster_path": "/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg",
+            "release_date": "2023-04-06",
+            "type": "movie",
+            "title": "To Catch a Killer",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jqwM0nhOLEFI1HHBabwr80Od3TC.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 324857,
+            "original_language": "en",
+            "original_title": "Spider-Man: Into the Spider-Verse",
+            "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+            "popularity": 738.323,
+            "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "release_date": "2018-12-06",
+            "type": "movie",
+            "title": "Spider-Man: Into the Spider-Verse",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 13129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+            "genre": "action",
+            "genre_ids": [
+                10752,
+                28,
+                53
+            ],
+            "id": 882569,
+            "original_language": "en",
+            "original_title": "Guy Ritchie's The Covenant",
+            "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+            "popularity": 735.404,
+            "poster_path": "/jZy73aPYrwwhuc37ALgnJUCaTnK.jpg",
+            "release_date": "2023-04-19",
+            "type": "movie",
+            "title": "Guy Ritchie's The Covenant",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 530
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9yqRiqGoNFcZlSrVS9Ezvt0wJbm.jpg",
+            "genre": "action",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 1074178,
+            "original_language": "zh",
+            "original_title": "追龙番外篇之龙争虎斗",
+            "overview": "Legendary heroes, lame-rich rises, dragons fight tigers, wealth and danger",
+            "popularity": 546.492,
+            "poster_path": "/clAzJXKTRXOfmLovb8vyJsixB1H.jpg",
+            "release_date": "2023-01-14",
+            "type": "movie",
+            "title": "Extras For Chasing The Dragon",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 4
+        },
+        {
+            "backdrop_path": "/1Xm0WqoT0DjZm5JdG2V6YFabrOz.jpg",
+            "first_air_date": "2023-02-13",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                35,
+                18
+            ],
+            "id": 215803,
+            "name": "Batang Quiapo",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Batang Quiapo",
+            "overview": "A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.",
+            "popularity": 2494.62,
+            "poster_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg",
+            "vote_average": 5.7,
+            "vote_count": 21
+        },
+        {
+            "backdrop_path": "/tio0dduiKFPjOEAf9iPLb9v9MNZ.jpg",
+            "first_air_date": "2022-11-14",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 211128,
+            "name": "The Iron Heart",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "The Iron Heart",
+            "overview": "An undercover agent goes on a dangerous mission to bring down a crime ring. Fueled by a bitter and painful past, he along with his allies faces the grueling task that will challenge his resolve and strength.",
+            "popularity": 1882.424,
+            "poster_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg",
+            "vote_average": 6.1,
+            "vote_count": 9
+        },
+        {
+            "backdrop_path": "/o6cPTseSRJjjSma4QTcv6otO1m8.jpg",
+            "first_air_date": "2015-08-23",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 62286,
+            "name": "Fear the Walking Dead",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Fear the Walking Dead",
+            "overview": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+            "popularity": 753.682,
+            "poster_path": "/sQleNHhKl32QFnSlahb5IHDWcDq.jpg",
+            "vote_average": 7.7,
+            "vote_count": 4495
+        },
+        {
+            "backdrop_path": "/6s3ftX4a1kECPCb1Ewq3GLhVFnn.jpg",
+            "first_air_date": "2003-09-23",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                80,
+                18,
+                10759
+            ],
+            "id": 4614,
+            "name": "NCIS",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "NCIS",
+            "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+            "popularity": 465.238,
+            "poster_path": "/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+            "vote_average": 7.6,
+            "vote_count": 1998
+        },
+        {
+            "backdrop_path": "/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg",
+            "first_air_date": "2011-04-17",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10765,
+                18,
+                10759
+            ],
+            "id": 1399,
+            "name": "Game of Thrones",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Game of Thrones",
+            "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+            "popularity": 391.491,
+            "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+            "vote_average": 8.4,
+            "vote_count": 21264
+        },
+        {
+            "backdrop_path": "/4z9NPyzCl4BlXHdja0TW0wKmF4A.jpg",
+            "first_air_date": "2001-10-16",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10765,
+                10759,
+                18
+            ],
+            "id": 4604,
+            "name": "Smallville",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Smallville",
+            "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+            "popularity": 386.149,
+            "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+            "vote_average": 8.2,
+            "vote_count": 3614
+        },
+        {
+            "backdrop_path": "/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
+            "first_air_date": "2023-04-07",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                16,
+                10765,
+                10759
+            ],
+            "id": 208493,
+            "name": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
+            "overview": "A door to another world stretches out before a boy who's been brutally bullied all his life. This alternate reality grants him access to all sorts of things, like cheat skills and a portal that lets him travel between his old and new worlds! Can this class loser turn his life around back home...?",
+            "popularity": 378.665,
+            "poster_path": "/2kTYmmOU8SsDxSijIDpz9vkT9la.jpg",
+            "vote_average": 7,
+            "vote_count": 20
+        },
+        {
+            "backdrop_path": "/ogMd4e3A0uSNwZADzgC23zCByoi.jpg",
+            "first_air_date": "2015-10-19",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                16,
+                10762
+            ],
+            "id": 65334,
+            "name": "Miraculous: Tales of Ladybug & Cat Noir",
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+            "overview": "Normal high school kids by day, protectors of Paris by night! Miraculous follows the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!",
+            "popularity": 371.408,
+            "poster_path": "/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+            "vote_average": 8,
+            "vote_count": 4066
+        },
+        {
+            "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+            "first_air_date": "2013-03-03",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18,
+                10768
+            ],
+            "id": 44217,
+            "name": "Vikings",
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "Vikings",
+            "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+            "popularity": 351.763,
+            "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+            "vote_average": 8.1,
+            "vote_count": 6223
+        },
+        {
+            "backdrop_path": "/r7zUXadc1saFFSWz8lbUx7q9bkG.jpg",
+            "first_air_date": "2010-10-31",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "id": 1402,
+            "name": "The Walking Dead",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Walking Dead",
+            "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+            "popularity": 349.819,
+            "poster_path": "/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+            "vote_average": 8.1,
+            "vote_count": 15032
+        },
+        {
+            "backdrop_path": "/w6H16UchlNJ4Okiu1Qasa0btOAk.jpg",
+            "first_air_date": "2018-01-03",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                18,
+                80,
+                10759
+            ],
+            "id": 75219,
+            "name": "9-1-1",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "9-1-1",
+            "overview": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+            "popularity": 344.077,
+            "poster_path": "/89ZV0IBrNa1EFmivRN6jl0sti1n.jpg",
+            "vote_average": 8.2,
+            "vote_count": 2037
+        },
+        {
+            "backdrop_path": "/eqRvKwTcBvfiA7EojFae8ZUJXdp.jpg",
+            "first_air_date": "2023-06-09",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18,
+                80
+            ],
+            "id": 127529,
+            "name": "Bloodhounds",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "사냥개들",
+            "overview": "Two young boxers band together with a benevolent moneylender to take down a ruthless loan shark who preys on the financially desperate.",
+            "popularity": 329.961,
+            "poster_path": "/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg",
+            "vote_average": 8.5,
+            "vote_count": 41
+        },
+        {
+            "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+            "first_air_date": "2013-12-02",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10759
+            ],
+            "id": 60625,
+            "name": "Rick and Morty",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "popularity": 308.984,
+            "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+            "vote_average": 8.7,
+            "vote_count": 8285
+        },
+        {
+            "backdrop_path": "/tFwGGfaEJsR9PjRQXazRUYvwOAG.jpg",
+            "first_air_date": "2023-03-14",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 195868,
+            "name": "Gotham Knights",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Gotham Knights",
+            "overview": "In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.",
+            "popularity": 289.121,
+            "poster_path": "/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
+            "vote_average": 7.2,
+            "vote_count": 67
+        },
+        {
+            "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+            "first_air_date": "2005-08-29",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                80,
+                18
+            ],
+            "id": 2288,
+            "name": "Prison Break",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Prison Break",
+            "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+            "popularity": 277.187,
+            "poster_path": "/z885tJn5kkUHppjIK1g2Q54iTff.jpg",
+            "vote_average": 8.1,
+            "vote_count": 4342
+        },
+        {
+            "backdrop_path": "/y1CvOW2NeVosJ4GI7PRpBjPS1pk.jpg",
+            "first_air_date": "2018-03-22",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 76773,
+            "name": "Station 19",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Station 19",
+            "overview": "A group of heroic firefighters at Seattle Fire Station 19—from captain to newest recruit—risk their lives and hearts both in the line of duty and off the clock. These brave men and women are like family, literally and figuratively, and together they put their own lives in jeopardy as first responders to save the lives of others.",
+            "popularity": 266.431,
+            "poster_path": "/lcuCED5Ky2uM5VE6wILOwt5FEb0.jpg",
+            "vote_average": 8.3,
+            "vote_count": 1307
+        },
+        {
+            "backdrop_path": "/7UkCASdM2z9HxwayWqbR1PJwlKn.jpg",
+            "first_air_date": "1987-09-28",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10765,
+                10759,
+                18,
+                9648
+            ],
+            "id": 655,
+            "name": "Star Trek: The Next Generation",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Star Trek: The Next Generation",
+            "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+            "popularity": 266.431,
+            "poster_path": "/m8Jp435AhUBmltmPyP5LOYjc80V.jpg",
+            "vote_average": 8.3,
+            "vote_count": 1209
+        },
+        {
+            "backdrop_path": "/9RPLAZEfxAu0SpO2QsHky1vZjJN.jpg",
+            "first_air_date": "1963-11-23",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "id": 121,
+            "name": "Doctor Who",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Doctor Who",
+            "overview": "The adventures of a Time Lord—a time-travelling humanoid alien known as the Doctor—who explores the universe in his TARDIS, a sentient time-travelling space ship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, the Doctor faces a variety of foes while working to save civilisations, help ordinary people, and right wrongs.",
+            "popularity": 265.247,
+            "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+            "vote_average": 7.9,
+            "vote_count": 498
+        },
+        {
+            "backdrop_path": "/vqiRx5UNdvzm2YjF6fDBs1tSsUd.jpg",
+            "first_air_date": "2023-04-01",
+            "type": "tv",
+            "genre": "action",
+            "genre_ids": [
+                16,
+                18,
+                10759,
+                10765
+            ],
+            "id": 117465,
+            "name": "Hell's Paradise",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "地獄楽",
+            "overview": "A squad of prisoners and their guards are sent to investigate a mysterious island. They get stranded there and must rely on each other to survive the island's mysterious and monstrous residents.",
+            "popularity": 262.85,
+            "poster_path": "/hYHXIqdi8bmbU7oZqgu9GW8hm8j.jpg",
+            "vote_average": 8.1,
+            "vote_count": 30
+        },
+        {
+            "backdrop_path": "/6UHIo0zxj7Ub5akglnQiNYf87IF.jpg",
+            "first_air_date": "1999-01-31",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 1434,
+            "name": "Family Guy",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Family Guy",
+            "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+            "popularity": 479.376,
+            "poster_path": "/aLB7psB9N81n5GecHNOudXWW3AI.jpg",
+            "vote_average": 7.3,
+            "vote_count": 3762
+        },
+        {
+            "backdrop_path": "/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+            "first_air_date": "1989-12-17",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                10751,
+                16,
+                35
+            ],
+            "id": 456,
+            "name": "The Simpsons",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Simpsons",
+            "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+            "popularity": 463.839,
+            "poster_path": "/zI3E2a3WYma5w8emI35mgq5Iurx.jpg",
+            "vote_average": 8,
+            "vote_count": 8896
+        },
+        {
+            "backdrop_path": "/fzJsAkCfWIVF0tufwBa78TN9QxN.jpg",
+            "first_air_date": "2022-07-08",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                10765
+            ],
+            "id": 138357,
+            "name": "Call of the Night",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "よふかしのうた",
+            "overview": "Nanakusa is a vampire. That's okay with human Ko. He wants to be one too. But transformation doesn't come that easily...\n\nWhen Nazuna invites Ko to spend the night at her place in an abandoned building, he's stoked! But then he awakens to kisses on his neck with a little too much bite to them... Is it just the delicious taste of his blood that makes her meet him night after night for late-night adventures, conversation and...naps? Or something else? Then, when a cute girl from Yamori's past shows up and competes for his attention, his budding relationship with the undead is put to the test!",
+            "popularity": 396.754,
+            "poster_path": "/leHfHA4tSA9WkM4UafjzDzsS5DZ.jpg",
+            "vote_average": 7.6,
+            "vote_count": 38
+        },
+        {
+            "backdrop_path": "/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
+            "first_air_date": "2023-04-07",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10765,
+                10759
+            ],
+            "id": 208493,
+            "name": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
+            "overview": "A door to another world stretches out before a boy who's been brutally bullied all his life. This alternate reality grants him access to all sorts of things, like cheat skills and a portal that lets him travel between his old and new worlds! Can this class loser turn his life around back home...?",
+            "popularity": 378.665,
+            "poster_path": "/2kTYmmOU8SsDxSijIDpz9vkT9la.jpg",
+            "vote_average": 7,
+            "vote_count": 20
+        },
+        {
+            "backdrop_path": "/ogMd4e3A0uSNwZADzgC23zCByoi.jpg",
+            "first_air_date": "2015-10-19",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                10759,
+                16,
+                10762
+            ],
+            "id": 65334,
+            "name": "Miraculous: Tales of Ladybug & Cat Noir",
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+            "overview": "Normal high school kids by day, protectors of Paris by night! Miraculous follows the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!",
+            "popularity": 371.408,
+            "poster_path": "/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+            "vote_average": 8,
+            "vote_count": 4066
+        },
+        {
+            "backdrop_path": "/7xIQL3eyNmQjZTJjzlsmzRUjAEx.jpg",
+            "first_air_date": "2005-02-06",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 1433,
+            "name": "American Dad!",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "American Dad!",
+            "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+            "popularity": 364.664,
+            "poster_path": "/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg",
+            "vote_average": 6.9,
+            "vote_count": 1804
+        },
+        {
+            "backdrop_path": "/2Et2cdJsNZNNHSUowm9ESNJu06j.jpg",
+            "first_air_date": "2012-08-06",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10762,
+                10751
+            ],
+            "id": 52051,
+            "name": "Mia and Me",
+            "origin_country": [],
+            "original_language": "en",
+            "original_name": "Mia and Me",
+            "overview": "Plunged into a fantastic fairy tale turned real, Mia must find the strength within herself to save a race of unicorns - and an entire world.",
+            "popularity": 317.96,
+            "poster_path": "/o2CL46XLxUmn4i9Kb2ZcM02RkNA.jpg",
+            "vote_average": 7,
+            "vote_count": 36
+        },
+        {
+            "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+            "first_air_date": "2013-12-02",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10759
+            ],
+            "id": 60625,
+            "name": "Rick and Morty",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "popularity": 308.984,
+            "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+            "vote_average": 8.7,
+            "vote_count": 8285
+        },
+        {
+            "backdrop_path": "/vqiRx5UNdvzm2YjF6fDBs1tSsUd.jpg",
+            "first_air_date": "2023-04-01",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                18,
+                10759,
+                10765
+            ],
+            "id": 117465,
+            "name": "Hell's Paradise",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "地獄楽",
+            "overview": "A squad of prisoners and their guards are sent to investigate a mysterious island. They get stranded there and must rely on each other to survive the island's mysterious and monstrous residents.",
+            "popularity": 262.85,
+            "poster_path": "/hYHXIqdi8bmbU7oZqgu9GW8hm8j.jpg",
+            "vote_average": 8.1,
+            "vote_count": 30
+        },
+        {
+            "backdrop_path": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+            "first_air_date": "2013-08-12",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10762
+            ],
+            "id": 57532,
+            "name": "PAW Patrol",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "PAW Patrol",
+            "overview": "PAW Patrol is a CG action-adventure for old children and preschool series starring a pack of six heroic puppies led by a tech-savvy 10-year-old boy named Ryder.",
+            "popularity": 247.468,
+            "poster_path": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+            "vote_average": 7,
+            "vote_count": 633
+        },
+        {
+            "backdrop_path": "/rm6zG1gESQT0ww3mp8oUUT5LJBL.jpg",
+            "first_air_date": "1997-04-01",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 60572,
+            "name": "Pokémon",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ポケットモンスター",
+            "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+            "popularity": 234.309,
+            "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+            "vote_average": 7.7,
+            "vote_count": 1456
+        },
+        {
+            "backdrop_path": "/muu7SpWpMpObzccAgaRcuB4RHbk.jpg",
+            "first_air_date": "2005-04-22",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                10759,
+                16,
+                35,
+                10765
+            ],
+            "id": 65733,
+            "name": "Doraemon",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ドラえもん",
+            "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+            "popularity": 233.977,
+            "poster_path": "/pXG8Exsmd50bq2Qx2RzByumgwqK.jpg",
+            "vote_average": 7.8,
+            "vote_count": 58
+        },
+        {
+            "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+            "first_air_date": "2019-04-06",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 85937,
+            "name": "Demon Slayer: Kimetsu no Yaiba",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "鬼滅の刃",
+            "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+            "popularity": 226.273,
+            "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+            "vote_average": 8.7,
+            "vote_count": 5288
+        },
+        {
+            "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+            "first_air_date": "1997-08-13",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 2190,
+            "name": "South Park",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "South Park",
+            "overview": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+            "popularity": 224.706,
+            "poster_path": "/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg",
+            "vote_average": 8.4,
+            "vote_count": 3674
+        },
+        {
+            "backdrop_path": "/aFI4g3JXzPPyxm6tA6jK20mChKq.jpg",
+            "first_air_date": "2023-04-08",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                35,
+                10759,
+                10765
+            ],
+            "id": 204832,
+            "name": "MASHLE: MAGIC AND MUSCLES",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "マッシュル-MASHLE-",
+            "overview": "In the magic realm, magic is everything—everyone can use it, and one’s social status is determined by their skill level. Deep in the forest, oblivious to the ways of the world, lives Mash. Thanks to his daily training, he’s become a fitness god, but he harbors a secret that could turn his life upside down—he can’t use magic! When he’s found out, rather than his life being over, he’s unexpectedly enrolled in magic school, where he must beat the competition!",
+            "popularity": 214.685,
+            "poster_path": "/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg",
+            "vote_average": 7.9,
+            "vote_count": 19
+        },
+        {
+            "backdrop_path": "/28yQ4VmGjoykPscUQqXHzh9Z2op.jpg",
+            "first_air_date": "2004-05-31",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10762
+            ],
+            "id": 12225,
+            "name": "Peppa Pig",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Peppa Pig",
+            "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
+            "popularity": 214.104,
+            "poster_path": "/ycf1ZqisXs8ZCGmw0reD1pI2Zlp.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/qtfMr08KQsWXnCHY0a96N8NpQ2l.jpg",
+            "first_air_date": "2004-10-05",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                10759,
+                16,
+                10765
+            ],
+            "id": 30984,
+            "name": "Bleach",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "BLEACH",
+            "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+            "popularity": 210.494,
+            "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+            "vote_average": 8.4,
+            "vote_count": 1515
+        },
+        {
+            "backdrop_path": "/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+            "first_air_date": "2023-04-12",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                18
+            ],
+            "id": 203737,
+            "name": "Oshi no Ko",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "【推しの子】",
+            "overview": "Dr. Goro is reborn as the son of the young starlet Ai Hoshino after her delusional stalker murders him. Now, he wants to help his new mother rise to the top, but what can a child do about the dark underbelly of the entertainment industry?",
+            "popularity": 191.759,
+            "poster_path": "/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+            "vote_average": 9.1,
+            "vote_count": 25
+        },
+        {
+            "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+            "first_air_date": "1989-04-26",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10765,
+                10759
+            ],
+            "id": 12971,
+            "name": "Dragon Ball Z",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ドラゴンボールゼット",
+            "overview": "The adventures of Earth's martial arts defender, Son Goku, continue with a new family and the revelation of his alien origins. Now Goku and his allies must defend the planet from an onslaught of new extraterrestrial enemies.",
+            "popularity": 190.184,
+            "poster_path": "/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg",
+            "vote_average": 8.3,
+            "vote_count": 3935
+        },
+        {
+            "backdrop_path": "/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+            "first_air_date": "2002-10-03",
+            "type": "tv",
+            "genre": "carton",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 46260,
+            "name": "Naruto",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ナルト",
+            "overview": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+            "popularity": 189.71,
+            "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+            "vote_average": 8.4,
+            "vote_count": 5082
+        },
+        {
+            "backdrop_path": "/1Xm0WqoT0DjZm5JdG2V6YFabrOz.jpg",
+            "first_air_date": "2023-02-13",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                10759,
+                35,
+                18
+            ],
+            "id": 215803,
+            "name": "Batang Quiapo",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Batang Quiapo",
+            "overview": "A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.",
+            "popularity": 2494.62,
+            "poster_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg",
+            "vote_average": 5.7,
+            "vote_count": 21
+        },
+        {
+            "backdrop_path": null,
+            "first_air_date": "2005-09-05",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "name": "Ulice",
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 2232.964,
+            "poster_path": "/3ayWL13P1HeRnyVL9lU9flOdZjq.jpg",
+            "vote_average": 2.7,
+            "vote_count": 13
+        },
+        {
+            "backdrop_path": "/xYiI6QEZvx8Z4La1oHvApyZHpOU.jpg",
+            "first_air_date": "2023-01-16",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                10766,
+                35
+            ],
+            "id": 209117,
+            "name": "Never Give Up",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Vai na Fé",
+            "overview": "Sol is a hardworking woman who has the chance to work as a backing vocalist for a funk singer and return to dancing, as she did in her youth. Torn between family pressure and passion for the stage, she must face the judgment of her church's members and conflicts with her family. The new chance will make her reconnect with her past in many ways, leading her to find her great youth love.",
+            "popularity": 2013.012,
+            "poster_path": "/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+            "vote_average": 7.3,
+            "vote_count": 11
+        },
+        {
+            "backdrop_path": "/zzMmUE7aRRtHR9GL90zrtvlqXlm.jpg",
+            "first_air_date": "2023-05-25",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 226241,
+            "name": "VGLY",
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "es",
+            "original_name": "VGLY",
+            "overview": "Though stuck at the bottom of the social ladder with no money or contacts, aspiring artist Vgly and his crew strive to break into the music business.",
+            "popularity": 836.778,
+            "poster_path": "/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg",
+            "vote_average": 8,
+            "vote_count": 81
+        },
+        {
+            "backdrop_path": "/v7GXQHcTeE1AJB44JzggdolIrxH.jpg",
+            "first_air_date": "2002-09-17",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                10767,
+                10763
+            ],
+            "id": 63824,
+            "name": "Aruseros",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Aruseros",
+            "overview": "",
+            "popularity": 572.443,
+            "poster_path": "/impacXrdofZzhMJHNboodaqFfaM.jpg",
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/229JokRQxlxtkfjVozY4Aqv5prv.jpg",
+            "first_air_date": "2020-01-15",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 98632,
+            "name": "The Game",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "اللعبة",
+            "overview": "The series revolves around the personality of a hotel manager named \"Wassim\", during which he is exposed to many comical situations with tourist destinations and others.",
+            "popularity": 506.789,
+            "poster_path": "/poPlCJGZWLoGTSD1PoMAsWOXsMB.jpg",
+            "vote_average": 7.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9t0tJXcOdWwwxmGTk112HGDaT0Q.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 890771,
+            "original_language": "en",
+            "original_title": "The Black Demon",
+            "overview": "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
+            "popularity": 1142.229,
+            "poster_path": "/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",
+            "release_date": "2023-04-26",
+            "type": "movie",
+            "title": "The Black Demon",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aAgGrfBwna1nO4M2USxwFgK5O0t.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 713704,
+            "original_language": "en",
+            "original_title": "Evil Dead Rise",
+            "overview": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+            "popularity": 922.336,
+            "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+            "release_date": "2023-04-12",
+            "type": "movie",
+            "title": "Evil Dead Rise",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "id": 799379,
+            "original_language": "ko",
+            "original_title": "늑대사냥",
+            "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+            "popularity": 710.134,
+            "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+            "release_date": "2022-09-21",
+            "type": "movie",
+            "title": "Project Wolf Hunting",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 758323,
+            "original_language": "en",
+            "original_title": "The Pope's Exorcist",
+            "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+            "popularity": 657.204,
+            "poster_path": "/gNPqcv1tAifbN7PRNgqpzY8sEJZ.jpg",
+            "release_date": "2023-04-05",
+            "type": "movie",
+            "title": "The Pope's Exorcist",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1396
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/baE88dSR0byNAMDBk8HENkdDbt0.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1098160,
+            "original_language": "en",
+            "original_title": "The Tank",
+            "overview": "In 1978 Oregon, Ben and Jules inherit an abandoned coastal property from Ben's late mother, who's never mentioned it. The untouched house has been kept a secret for 40 years and comes with a beautiful private cove and beach. Jules searches for answers while Ben unwittingly awakens a fiercely protective creature.",
+            "popularity": 747.657,
+            "poster_path": "/2VxEtwgzOUukatl2IKGn4borpgE.jpg",
+            "release_date": "2023-04-21",
+            "type": "movie",
+            "title": "The Tank",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4soWZwLbJz1XDJ6Astk76uorvXA.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27
+            ],
+            "id": 1115710,
+            "original_language": "en",
+            "original_title": "The Mount 2",
+            "overview": "A year after the incident at the Mount, the police are still investigating the murders of Philomena and Caroline. The Mount has been cordoned off by the police. However, on Halloween night, a group of teenagers break in. They plan on holding a wedding between friends, conducted by a rather odd character, however, little did they know some unexpected guests would show up to crash the party.",
+            "popularity": 523.689,
+            "poster_path": "/cJpHTbHobMYzEyHTgSaCcjy4ELB.jpg",
+            "release_date": "2023-05-12",
+            "type": "movie",
+            "title": "The Mount 2",
+            "video": false,
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 934433,
+            "original_language": "en",
+            "original_title": "Scream VI",
+            "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+            "popularity": 426.399,
+            "poster_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+            "release_date": "2023-03-08",
+            "type": "movie",
+            "title": "Scream VI",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4N6sjSzwJishdG4jnv8QTwaoPvz.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 943930,
+            "original_language": "es",
+            "original_title": "Tin & Tina",
+            "overview": "After a traumatic miscarriage, Lola and her husband Adolfo adopt Tin and Tina, a lovely albino brother and sister with an ultra-catholic education that makes them interpret Holy Bible verbatim.",
+            "popularity": 349.793,
+            "poster_path": "/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",
+            "release_date": "2023-03-24",
+            "type": "movie",
+            "title": "Tin & Tina",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/brSiX0tIQouf61dLOuJPCPZ1h1h.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27
+            ],
+            "id": 981324,
+            "original_language": "en",
+            "original_title": "Island of the Dolls",
+            "overview": "A group of people go to the legendary Island of the Dolls to learn the deadly truth.",
+            "popularity": 278.228,
+            "poster_path": "/c8FUbg4SnvMXZx4rlkuK7FB6266.jpg",
+            "release_date": "2023-01-13",
+            "type": "movie",
+            "title": "Island of the Dolls",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                35,
+                27,
+                14
+            ],
+            "id": 649609,
+            "original_language": "en",
+            "original_title": "Renfield",
+            "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "popularity": 248.713,
+            "poster_path": "/2OaprROMZZeiWsydjGUIkXrv2Z3.jpg",
+            "release_date": "2023-04-07",
+            "type": "movie",
+            "title": "Renfield",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6JiT5BiQs4RbVXjJ6GU2w2587F0.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 977866,
+            "original_language": "en",
+            "original_title": "The Ghosts of Monday",
+            "overview": "A group of US filmmakers travel to Cyprus to film a documentary in the tragically famous Hotel Gula - a once popular resort where more than 100 people died in mysterious circumstances. What begins as just another day at the office will eventually turn into a terrifying journey into the unknown.",
+            "popularity": 220.884,
+            "poster_path": "/lfY6RW1sNaY5IyO50tWxHEAZX26.jpg",
+            "release_date": "2022-08-29",
+            "type": "movie",
+            "title": "The Ghosts of Monday",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRggdawsxvOZaNwS2ZdFGRS1FK9.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "id": 1014501,
+            "original_language": "en",
+            "original_title": "Grotesque",
+            "overview": "Mildred Moyer transforms from shy misfit to loveable psychopath when her back-alley plastic surgery is botched. Mildred finds herself living her best life as she unleashes brutal vengeance on all those who tormented her in the past.",
+            "popularity": 209.25,
+            "poster_path": "/eoMsojXOiO18leSgHHOxzYOtG5o.jpg",
+            "release_date": "2022-07-30",
+            "type": "movie",
+            "title": "Grotesque",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bJO6pHIUvyOeW52G2P5YRpGv5u9.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                28,
+                35,
+                27,
+                53
+            ],
+            "id": 8869,
+            "original_language": "en",
+            "original_title": "Eight Legged Freaks",
+            "overview": "The residents of a rural mining town discover that an unfortunate chemical spill has caused hundreds of little spiders to mutate overnight to the size of SUVs. It's then up to mining engineer Chris McCormack and Sheriff Sam Parker to mobilize an eclectic group of townspeople, including the Sheriff's young son, Mike, her daughter, Ashley, and paranoid radio announcer Harlan, into battle against the bloodthirsty eight-legged beasts.",
+            "popularity": 210.835,
+            "poster_path": "/1hf7x6WmyXtL1MlY4eSlTbZ8Nzu.jpg",
+            "release_date": "2002-07-17",
+            "type": "movie",
+            "title": "Eight Legged Freaks",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 1060
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9oEbhx52BOgHvnOYisrVROfwt94.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27
+            ],
+            "id": 702621,
+            "original_language": "en",
+            "original_title": "Lullaby",
+            "overview": "A new mother discovers a lullaby in an ancient book and soon regards the song as a blessing. But her world transforms into a nightmare when the lullaby brings forth the ancient demon Lilith.",
+            "popularity": 203.961,
+            "poster_path": "/vmE4gZ9vy8ammgS2UsEh0Z1OCia.jpg",
+            "release_date": "2022-12-16",
+            "type": "movie",
+            "title": "Lullaby",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qcXIX4Sjv6oEKLvaLYJTabLqR.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1020696,
+            "original_language": "en",
+            "original_title": "Play Dead",
+            "overview": "Criminology student Chloe fakes her own death to break into a morgue, in order to retrieve a piece of evidence that ties her younger brother to a crime gone wrong. Once inside, she discovers that a sadistic coroner is using the corpses for his sick and twisted business, and when he realises that Chloe still has a pulse, a terrifying game of cat and mouse ensues.",
+            "popularity": 204.97,
+            "poster_path": "/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg",
+            "release_date": "2022-12-09",
+            "type": "movie",
+            "title": "Play Dead",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 980078,
+            "original_language": "en",
+            "original_title": "Winnie the Pooh: Blood and Honey",
+            "overview": "Christopher Robin is headed off to college and he has abandoned his old friends, Pooh and Piglet, which then leads to the duo embracing their inner monsters.",
+            "popularity": 187.733,
+            "poster_path": "/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg",
+            "release_date": "2023-01-27",
+            "type": "movie",
+            "title": "Winnie the Pooh: Blood and Honey",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 644
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jgGP3HxKUrYM7sPIFVH7L0k8Mmq.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27
+            ],
+            "id": 1094403,
+            "original_language": "en",
+            "original_title": "Malum",
+            "overview": "A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult.",
+            "popularity": 202.305,
+            "poster_path": "/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg",
+            "release_date": "2023-03-31",
+            "type": "movie",
+            "title": "Malum",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A077VsMIBBXNvlI5mohGnSiIrfI.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                878,
+                27
+            ],
+            "id": 536554,
+            "original_language": "en",
+            "original_title": "M3GAN",
+            "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+            "popularity": 200.702,
+            "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+            "release_date": "2022-12-28",
+            "type": "movie",
+            "title": "M3GAN",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 381288,
+            "original_language": "en",
+            "original_title": "Split",
+            "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+            "popularity": 139.472,
+            "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+            "release_date": "2017-01-19",
+            "type": "movie",
+            "title": "Split",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 16047
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1dubuCInk9DM9JBjiItBGkkkZx0.jpg",
+            "genre": "horror",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 631842,
+            "original_language": "en",
+            "original_title": "Knock at the Cabin",
+            "overview": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+            "popularity": 175.277,
+            "poster_path": "/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+            "release_date": "2023-02-01",
+            "type": "movie",
+            "title": "Knock at the Cabin",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1544
+        },
+        {
+            "backdrop_path": "/6UHIo0zxj7Ub5akglnQiNYf87IF.jpg",
+            "first_air_date": "1999-01-31",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 1434,
+            "name": "Family Guy",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Family Guy",
+            "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+            "popularity": 479.376,
+            "poster_path": "/aLB7psB9N81n5GecHNOudXWW3AI.jpg",
+            "vote_average": 7.3,
+            "vote_count": 3762
+        },
+        {
+            "backdrop_path": "/4yPfNmCbrokLuQsolaHs271p2Fj.jpg",
+            "first_air_date": "2020-04-27",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 100883,
+            "name": "Never Have I Ever",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Never Have I Ever",
+            "overview": "After a traumatic year, all an Indian-American teen wants is to go from pariah to popular -- but friends, family and feeling won't make it easy on her.",
+            "popularity": 477.644,
+            "poster_path": "/hd5fnBixab6IzfUwjC5wfdbX3eM.jpg",
+            "vote_average": 8.2,
+            "vote_count": 1477
+        },
+        {
+            "backdrop_path": "/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+            "first_air_date": "1989-12-17",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                10751,
+                16,
+                35
+            ],
+            "id": 456,
+            "name": "The Simpsons",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Simpsons",
+            "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+            "popularity": 463.839,
+            "poster_path": "/zI3E2a3WYma5w8emI35mgq5Iurx.jpg",
+            "vote_average": 8,
+            "vote_count": 8896
+        },
+        {
+            "backdrop_path": "/mqnyFBK7RMZaGhD6gVHspoUYK6I.jpg",
+            "first_air_date": "2021-02-08",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 119316,
+            "name": "Wagle Ki Duniya",
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "वागले की दुनिया",
+            "overview": "Three generations of the family live together, who share all their happiness and sorrows. Follow the story of this family as they bring laughter to each other's lives and will make your heart melt. A new generation of the old critically acclaimed show is here to take you on a roller coaster ride of emotions.",
+            "popularity": 457.924,
+            "poster_path": "/jKonm6Q3vw51Ytd4y7bJ70xJT7l.jpg",
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "backdrop_path": "/fzJsAkCfWIVF0tufwBa78TN9QxN.jpg",
+            "first_air_date": "2022-07-08",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                35,
+                10765
+            ],
+            "id": 138357,
+            "name": "Call of the Night",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "よふかしのうた",
+            "overview": "Nanakusa is a vampire. That's okay with human Ko. He wants to be one too. But transformation doesn't come that easily...\n\nWhen Nazuna invites Ko to spend the night at her place in an abandoned building, he's stoked! But then he awakens to kisses on his neck with a little too much bite to them... Is it just the delicious taste of his blood that makes her meet him night after night for late-night adventures, conversation and...naps? Or something else? Then, when a cute girl from Yamori's past shows up and competes for his attention, his budding relationship with the undead is put to the test!",
+            "popularity": 396.754,
+            "poster_path": "/leHfHA4tSA9WkM4UafjzDzsS5DZ.jpg",
+            "vote_average": 7.6,
+            "vote_count": 38
+        },
+        {
+            "backdrop_path": "/7xIQL3eyNmQjZTJjzlsmzRUjAEx.jpg",
+            "first_air_date": "2005-02-06",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 1433,
+            "name": "American Dad!",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "American Dad!",
+            "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+            "popularity": 364.664,
+            "poster_path": "/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg",
+            "vote_average": 6.9,
+            "vote_count": 1804
+        },
+        {
+            "backdrop_path": "/nqlWzadmaITlxNYnje0hjeCp3u.jpg",
+            "first_air_date": "2023-04-18",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 222835,
+            "name": "The Third Finger Offered to a King",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "王様に捧ぐ薬指",
+            "overview": "Ayaka, who works at the bridal department at a hotel, has a beauty that everyone recognizes, yet her personality is the worst. Everyone calls her a \"wicked woman\" after the way she wraps numerous men around her finger. The one who sets his eyes on her is the hotel's new executive Togo, who is the son of a very powerful person of the town. What are the orders that this King-like man requests of her!?",
+            "popularity": 346.728,
+            "poster_path": "/iwtXKXUVXrCSVkqce1MLRiAFiLp.jpg",
+            "vote_average": 8,
+            "vote_count": 1
+        },
+        {
+            "backdrop_path": "/fXRgyxFxT3SG45fDqUODDRNE9IJ.jpg",
+            "first_air_date": "2017-09-25",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 71728,
+            "name": "Young Sheldon",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Young Sheldon",
+            "overview": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+            "popularity": 345.835,
+            "poster_path": "/MpdROQ5XxQqOMKhJlLUf7PTxIC.jpg",
+            "vote_average": 8,
+            "vote_count": 2049
+        },
+        {
+            "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+            "first_air_date": "1994-09-22",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1668,
+            "name": "Friends",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Friends",
+            "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+            "popularity": 327.184,
+            "poster_path": "/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+            "vote_average": 8.4,
+            "vote_count": 6941
+        },
+        {
+            "backdrop_path": "/rHuXgDmrv4vMKgQZ6pu2E2iLJnM.jpg",
+            "first_air_date": "2010-07-11",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                10764
+            ],
+            "id": 33238,
+            "name": "Running Man",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "런닝맨",
+            "overview": "These days, variety entertainment is gradually disappearing. It is one of Korea's representative variety entertainment shows that has been in charge of Sunday evenings for over 10 years. In this program, many stars and members play games and missions together. It is characterized by going around several places. In particular, this program focuses solely on laughter among the many fun elements of entertainment.\n\nOpen your eyes! Big fun enters!\n\nOpen your mouth!  A big smile enters!\n\nOpen your mind! Instructive lesson enters!",
+            "popularity": 323.106,
+            "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+            "vote_average": 8.4,
+            "vote_count": 155
+        },
+        {
+            "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+            "first_air_date": "2013-12-02",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10759
+            ],
+            "id": 60625,
+            "name": "Rick and Morty",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "popularity": 308.984,
+            "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+            "vote_average": 8.7,
+            "vote_count": 8285
+        },
+        {
+            "backdrop_path": "/2pOmuq4nkWZzwZbOfZq7CyyQAsM.jpg",
+            "first_air_date": "2003-09-22",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 2691,
+            "name": "Two and a Half Men",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Two and a Half Men",
+            "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+            "popularity": 295.51,
+            "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+            "vote_average": 7.4,
+            "vote_count": 2722
+        },
+        {
+            "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+            "first_air_date": "1989-07-05",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35
+            ],
+            "id": 1400,
+            "name": "Seinfeld",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Seinfeld",
+            "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+            "popularity": 291.539,
+            "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+            "vote_average": 8.3,
+            "vote_count": 1591
+        },
+        {
+            "backdrop_path": "/3hOxwqn1P2AY0d20VVtxN2f3Lfh.jpg",
+            "first_air_date": "2006-09-24",
+            "type": "tv",
+            "genre": "comedic",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 6809,
+            "name": "El hormiguero",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El hormiguero",
+            "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
+            "popularity": 280.892,
+            "poster_path": "/j8DmjpFs9sQdPyxlCk33wCmhiSJ.jpg",
+            "vote_average": 5.3,
+            "vote_count": 22
+        },
+        {
+            "backdrop_path": "/aCiXh5QX6bg0BtpFEBXKaZYScB4.jpg",
+            "first_air_date": "2005-06-06",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                10763,
+                10764,
+                99
+            ],
+            "id": 203599,
+            "name": "Scoop",
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "東張西望",
+            "overview": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly based on entertainment news and personal follow-up of the artists, and will also be interspersed with the latest trends of TVB dramas and artists. Some entertainment news content clips will be rebroadcast on the next day's \"Entertainment Live\".\n\nThis program will be broadcast on Jade Channel from 19:30-20:00 (Hong Kong time) from June 6, 2005, and will be broadcast every day from March 3, 2019, and will be broadcast on myTV (later myTV SUPER) to provide \"Program Review\".",
+            "popularity": 371.417,
+            "poster_path": "/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+            "vote_average": 6.5,
+            "vote_count": 11
+        },
+        {
+            "backdrop_path": "/a5Ymb8KqwiWcwEFcyAJtwcuMVK1.jpg",
+            "first_air_date": "2016-03-02",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 65772,
+            "name": "Gaycation",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Gaycation",
+            "overview": "Elliot and his best friend Ian set off on a personal journey to explore LGBTQ cultures around the world. From Japan to Brazil, Jamaica to America, they discover the multiplicity of LGBTQ experiences, meeting amazing people and hearing their deeply moving stories of struggle and triumph. Gaycation celebrates the state of LGBTQ identities across the globe.",
+            "popularity": 328.438,
+            "poster_path": "/wIHbQ6BHSX1o4a47J2cR1qqUXt9.jpg",
+            "vote_average": 6,
+            "vote_count": 21
+        },
+        {
+            "backdrop_path": "/kO8Ag79MaNdGB0K8TS98wIaklPD.jpg",
+            "first_air_date": "2017-03-13",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 98271,
+            "name": "arte Re:",
+            "origin_country": [
+                "DE",
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "arte Re:",
+            "overview": "",
+            "popularity": 296.185,
+            "poster_path": "/19ChTJxvw9jZpMnWKsuXc83eI5C.jpg",
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/mUsIT0p0Rdh5PZ8SdRKket6Vw9Y.jpg",
+            "first_air_date": "2022-01-24",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 156342,
+            "name": "Great Coastal Railway Journeys",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Great Coastal Railway Journeys",
+            "overview": "From the sea lochs of Scotland to the Jurassic Coast of Dorset, seasoned train traveller Michael Portillo immerses himself in the magnificent scenery of the nation's coastal regions.",
+            "popularity": 262.205,
+            "poster_path": "/5xlsX8q5CaZV47Sa3VXqhiQSle5.jpg",
+            "vote_average": 7,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/A5ITI2kmvcMpQYEPpToTSdtWZzX.jpg",
+            "first_air_date": "2023-06-07",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 226135,
+            "name": "Arnold",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Arnold",
+            "overview": "This intimate docuseries follows Arnold Schwarzenegger's multifaceted life and career, from bodybuilding champ to Hollywood icon to politician.",
+            "popularity": 147.064,
+            "poster_path": "/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
+            "vote_average": 8.6,
+            "vote_count": 38
+        },
+        {
+            "backdrop_path": "/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg",
+            "first_air_date": "2003-09-03",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                18
+            ],
+            "id": 90,
+            "name": "Mayday",
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "Mayday",
+            "overview": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
+            "popularity": 131.497,
+            "poster_path": "/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+            "vote_average": 8.3,
+            "vote_count": 219
+        },
+        {
+            "backdrop_path": "/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+            "first_air_date": "2019-04-05",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 83880,
+            "name": "Our Planet",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Our Planet",
+            "overview": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope.",
+            "popularity": 101.199,
+            "poster_path": "/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+            "vote_average": 8.5,
+            "vote_count": 259
+        },
+        {
+            "backdrop_path": "/dZf3fpTAEdmLtekPb1LQb82wOyI.jpg",
+            "first_air_date": "1974-03-03",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 3562,
+            "name": "NOVA",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "NOVA",
+            "overview": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demystifies science and technology, and highlights the people involved in scientific pursuits.",
+            "popularity": 100.435,
+            "poster_path": "/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+            "vote_average": 7,
+            "vote_count": 94
+        },
+        {
+            "backdrop_path": "/tjXXXRnEI3rxzTsrs4FvhjhPlQt.jpg",
+            "first_air_date": "2022-05-23",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 95171,
+            "name": "Prehistoric Planet",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Prehistoric Planet",
+            "overview": "Experience the wonders of our world like never before in this epic docuseries from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+            "popularity": 92.529,
+            "poster_path": "/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg",
+            "vote_average": 8.4,
+            "vote_count": 303
+        },
+        {
+            "backdrop_path": "/olp89gogVfOCWimwlkGe2dbsHYa.jpg",
+            "first_air_date": "2003-01-23",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                10764
+            ],
+            "id": 1428,
+            "name": "MythBusters",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "MythBusters",
+            "overview": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Productions for the Discovery Channel. The show's hosts, special effects experts Adam Savage and Jamie Hyneman, use elements of the scientific method to test the validity of rumors, myths, movie scenes, adages, Internet videos, and news stories.",
+            "popularity": 88.15,
+            "poster_path": "/9MxhqYvwx8FSb5cRWUWEDfpWSfo.jpg",
+            "vote_average": 7.8,
+            "vote_count": 456
+        },
+        {
+            "backdrop_path": "/d90fj3GmpYexOKa4CmpQnJkuDR3.jpg",
+            "first_air_date": "2019-11-20",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                10768,
+                10759,
+                18,
+                99
+            ],
+            "id": 95603,
+            "name": "Kuruluş Osman",
+            "origin_country": [
+                "TR"
+            ],
+            "original_language": "tr",
+            "original_name": "Kuruluş Osman",
+            "overview": "The life of Osman Bey, the son of Ertugrul Gazi and the founder of the Ottoman Empire.",
+            "popularity": 87.747,
+            "poster_path": "/aS0MWLkmVdO1o1Hk7dkATLIXOUE.jpg",
+            "vote_average": 7.9,
+            "vote_count": 259
+        },
+        {
+            "backdrop_path": "/mCZEHiyPkmsw3MDBNuiN5z85gs8.jpg",
+            "first_air_date": "2002-10-20",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                10767,
+                35
+            ],
+            "id": 45,
+            "name": "Top Gear",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Top Gear",
+            "overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy Mcguinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
+            "popularity": 87.686,
+            "poster_path": "/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
+            "vote_average": 7.4,
+            "vote_count": 624
+        },
+        {
+            "backdrop_path": null,
+            "first_air_date": "2019-12-09",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 120218,
+            "name": "跟着书本去旅行",
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh",
+            "original_name": "跟着书本去旅行",
+            "overview": "",
+            "popularity": 71.959,
+            "poster_path": "/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/obqcjG9gDu8fnNkXEWI2HlJAb68.jpg",
+            "first_air_date": "2010-04-20",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                9648,
+                10765
+            ],
+            "id": 32608,
+            "name": "Ancient Aliens",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Ancient Aliens",
+            "overview": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate.",
+            "popularity": 62.944,
+            "poster_path": "/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+            "vote_average": 6.9,
+            "vote_count": 223
+        },
+        {
+            "backdrop_path": "/kLRLqloddwBDF5RlrNc8C3fecXI.jpg",
+            "first_air_date": "1988-10-04",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 1181,
+            "name": "American Experience",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "American Experience",
+            "overview": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of the world today.",
+            "popularity": 62.429,
+            "poster_path": "/l1XPv1OsEijtB7iu9G9RrzugKCo.jpg",
+            "vote_average": 7.9,
+            "vote_count": 23
+        },
+        {
+            "backdrop_path": "/6dX25PTvZbe4vH1ksVBQi9YhNBx.jpg",
+            "first_air_date": "2008-02-25",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                10764,
+                99
+            ],
+            "id": 120554,
+            "name": "세계테마기행",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "세계테마기행",
+            "overview": "",
+            "popularity": 61.175,
+            "poster_path": "/pHC70ke34d0pEOdhcx8lnWhRtqk.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/cckSh7WjbbecR3R0sjEyefmCzWo.jpg",
+            "first_air_date": "2016-04-26",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                18,
+                10759
+            ],
+            "id": 70824,
+            "name": "The Girl",
+            "origin_country": [
+                "CO"
+            ],
+            "original_language": "es",
+            "original_name": "La Niña",
+            "overview": "A former Colombian guerrilla fighter faces challenges as she reintegrates into society and tries to overcome her traumatic memories.",
+            "popularity": 58.834,
+            "poster_path": "/uzNOxyNt1WIXt9KBRKytiqQZ02y.jpg",
+            "vote_average": 7.6,
+            "vote_count": 195
+        },
+        {
+            "backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+            "first_air_date": "2021-01-08",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                10759,
+                10765
+            ],
+            "id": 114695,
+            "name": "Marvel Studios Legends",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Marvel Studios Legends",
+            "overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+            "popularity": 57.932,
+            "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+            "vote_average": 7.4,
+            "vote_count": 622
+        },
+        {
+            "backdrop_path": "/fxGvJ8o6oCQVwxb96D2NuOgNAkU.jpg",
+            "first_air_date": "2012-01-27",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99,
+                10764
+            ],
+            "id": 58704,
+            "name": "Bering Sea Gold",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Bering Sea Gold",
+            "overview": "In the frontier town of Nome, Alaska, there’s a gold rush on. But you've never seen gold mining like this before — here, the precious metal isn't found in the ground. It’s sitting in the most unlikely of places: the bottom of the frigid, unpredictable Bering Sea. And there are a handful of people willing to risk it all to bring it to the surface.",
+            "popularity": 56.343,
+            "poster_path": "/jrMvJCbdBEA6UphJhL4kgtmY5Pw.jpg",
+            "vote_average": 6.1,
+            "vote_count": 26
+        },
+        {
+            "backdrop_path": "/ocfRB5tUjrGBvwZ2HXun0OQG4yE.jpg",
+            "first_air_date": "2023-05-25",
+            "type": "tv",
+            "genre": "historic",
+            "genre_ids": [
+                99
+            ],
+            "id": 223249,
+            "name": "100 Years of Warner Bros.",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "100 Years of Warner Bros.",
+            "overview": "Tracing a century of movie and TV history, these four documentary specials explore the unparalleled global impact of Warner Bros. on art, commerce, and culture.",
+            "popularity": 54.727,
+            "poster_path": "/wHDsqOf8xBvDRUVpEtSZ27GfMwS.jpg",
+            "vote_average": 7,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w26FmegnHL8BykasYNHADIEURBW.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                10752,
+                36,
+                28
+            ],
+            "id": 1037644,
+            "original_language": "en",
+            "original_title": "Battle for Saipan",
+            "overview": "On July 7, 1944, a U.S. Army hospital on the remote island of Saipan is overrun by Japanese forces during a relentless attack. Outgunned and surrounded by the enemy, a lone medic puts it all on the line to lead a band of wounded soldiers to safety.",
+            "popularity": 221.769,
+            "poster_path": "/9N3KwhzBCcqmFcqHpPCsjqfym9M.jpg",
+            "release_date": "2022-11-25",
+            "type": "movie",
+            "title": "Battle for Saipan",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 724495,
+            "original_language": "en",
+            "original_title": "The Woman King",
+            "overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+            "popularity": 166.1,
+            "poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+            "release_date": "2022-09-16",
+            "type": "movie",
+            "title": "The Woman King",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1545
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 943822,
+            "original_language": "en",
+            "original_title": "Prizefighter: The Life of Jem Belcher",
+            "overview": "At the turn of the 19th century, Pugilism was the sport of kings and a gifted young boxer fought his way to becoming champion of England.",
+            "popularity": 150.396,
+            "poster_path": "/x3PIk93PTbxT88ohfeb26L1VpZw.jpg",
+            "release_date": "2022-06-30",
+            "type": "movie",
+            "title": "Prizefighter: The Life of Jem Belcher",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 381284,
+            "original_language": "en",
+            "original_title": "Hidden Figures",
+            "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+            "popularity": 161.841,
+            "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+            "release_date": "2016-12-10",
+            "type": "movie",
+            "title": "Hidden Figures",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 8710
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "id": 878361,
+            "original_language": "en",
+            "original_title": "Big George Foreman",
+            "overview": "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+            "popularity": 163.538,
+            "poster_path": "/4RWtygeDuA7p7IMgcWHr7oCq8wI.jpg",
+            "release_date": "2023-04-27",
+            "type": "movie",
+            "title": "Big George Foreman",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Xfn9eDOaZKSz5W3PRoJI928I9c.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                28,
+                12,
+                36,
+                18
+            ],
+            "id": 875104,
+            "original_language": "zh",
+            "original_title": "叶问宗师觉醒",
+            "overview": "When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human-trafficking ring. In retaliation, the gang kidnaps one of Ip Man's close friends, forcing him to face the group's brutal boxing champion head-on.",
+            "popularity": 148.393,
+            "poster_path": "/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
+            "release_date": "2023-05-05",
+            "type": "movie",
+            "title": "Ip Man: The Awakening",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rshlQ6LfPRSWFhpGL4s5ZkIPR51.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 324786,
+            "original_language": "en",
+            "original_title": "Hacksaw Ridge",
+            "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+            "popularity": 141.717,
+            "poster_path": "/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg",
+            "release_date": "2016-10-07",
+            "type": "movie",
+            "title": "Hacksaw Ridge",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 12314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                35,
+                18,
+                36
+            ],
+            "id": 1016084,
+            "original_language": "en",
+            "original_title": "BlackBerry",
+            "overview": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+            "popularity": 124.365,
+            "poster_path": "/neV35lK7em4rIY9QIoH1cruErPA.jpg",
+            "release_date": "2023-05-11",
+            "type": "movie",
+            "title": "BlackBerry",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/maxRhndtC4BJABvqRPvYNu69CHA.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 551271,
+            "original_language": "en",
+            "original_title": "Medieval",
+            "overview": "The story of 14th century Czech icon and warlord Jan Zizka who defeated armies of the Teutonic Order and the Holy Roman Empire.",
+            "popularity": 116.302,
+            "poster_path": "/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg",
+            "release_date": "2022-09-08",
+            "type": "movie",
+            "title": "Medieval",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6UDep1cxHQqrNFhSW4ZNQLW3Alr.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 9453,
+            "original_language": "en",
+            "original_title": "Caligola",
+            "overview": "The perversion behind imperial Rome, the epic story of Rome's mad Emporer. All the details of his cruel, bizarre reign are revealed right here: His unholy sexual passion for his sister, his marriage to Rome's most infamous prostitute, his fiendishly inventive means of disposing those who would oppose him, and more.",
+            "popularity": 102.27,
+            "poster_path": "/4N4l873TVreuaR4FVpvaL2gfQ0N.jpg",
+            "release_date": "1979-08-14",
+            "type": "movie",
+            "title": "Caligula",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 964980,
+            "original_language": "en",
+            "original_title": "Air",
+            "overview": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+            "popularity": 103,
+            "poster_path": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+            "release_date": "2023-04-05",
+            "type": "movie",
+            "title": "Air",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 76203,
+            "original_language": "en",
+            "original_title": "12 Years a Slave",
+            "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+            "popularity": 81.712,
+            "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+            "release_date": "2013-10-18",
+            "type": "movie",
+            "title": "12 Years a Slave",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 10411
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/64nGZRU18Sgq41SHHLhCwhj30o3.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                10751,
+                36,
+                18
+            ],
+            "id": 925341,
+            "original_language": "de",
+            "original_title": "Der Pfad",
+            "overview": "Fleeing from the Nazis, two children, a journalist father, and a dog must make their way through the hazardous Pyrenees mountain range.",
+            "popularity": 79.168,
+            "poster_path": "/vGVH1bYbkHADVIey1sETPSyxch4.jpg",
+            "release_date": "2022-02-17",
+            "type": "movie",
+            "title": "The Path",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ryQbb26wl1ggtypXiZW0kjKZCrP.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                12,
+                10749,
+                28,
+                36
+            ],
+            "id": 67308,
+            "original_language": "cn",
+            "original_title": "3D肉蒲團之極樂寶鑑",
+            "overview": "Loosely based on a 17th century erotic Chinese story named The Carnal Prayer Mat, the story follows a young scholar named Yangsheng who gets married to the beautiful daughter of a local merchant. When their sex life proves unsatisfactory, Yangsheng leaves home and journeys to the Pavilion of Ultimate Bliss.",
+            "popularity": 87.591,
+            "poster_path": "/mmvFokJgpFmNt522Hfpq3Zfs2Ra.jpg",
+            "release_date": "2011-04-14",
+            "type": "movie",
+            "title": "3-D Sex and Zen: Extreme Ecstasy",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xFNxI3dzEKJYdlW188GqOtTWamk.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                18,
+                36,
+                10402,
+                10749,
+                80
+            ],
+            "id": 912726,
+            "original_language": "de",
+            "original_title": "Rheingold",
+            "overview": "Xatar’s way from the ghetto to the top of the charts is as dramatic as it is daring: Fatih Akin’s new film is based on the autobiographical novel »Alles oder Nix« (»All or Nothing«) of the probably most authentic exponent of German gangsta rap. From the hell of an Iraqi jail, Giwar Hajabi (Emilio Sakraya) emigrated to Germany as a young boy with his family in the mid-1980s and has to start right at the bottom. There are opportunities, but far more obstacles. Giwar’s rise from petty criminal to major dealer is swift. Until one shipment goes missing. In order to clear his debts with the cartel, he plans a legendary gold heist. But just as everything goes wrong, another door opens for Giwar thanks to his passion for music …",
+            "popularity": 63.459,
+            "poster_path": "/aUtbh1sFpCWEZlABXNjOugCbt88.jpg",
+            "release_date": "2022-10-27",
+            "type": "movie",
+            "title": "Rhinegold",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fsBnJV0K5bcmzUAwL47A9FqoKae.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                36,
+                35
+            ],
+            "id": 105812,
+            "original_language": "cn",
+            "original_title": "青樓十二房",
+            "overview": "Madam Five and carpenter Kong work together managing a famous whorehouse. Kong's apprentice Yat fails to get along with Ching due to a misunderstanding between them. Luckily, the appearance of a murderous rapist helps to resolve the misunderstanding between them. It also unites the group to defend against the sex maniac and to rebuild Madam Five's business at a new location.",
+            "popularity": 79.545,
+            "poster_path": "/53AdAWdL7pJnWzvfSfDq30MJaFw.jpg",
+            "release_date": "1994-09-15",
+            "type": "movie",
+            "title": "Ancient Chinese Whorehouse",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r7E1wjETuYChaZ8vK7rAim6bVlD.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                10749,
+                18,
+                36
+            ],
+            "id": 333167,
+            "original_language": "ko",
+            "original_title": "순수의 시대",
+            "overview": "Set in 1398. Kim Min-Jae is the supreme commander of the Joseon Dynasty. He falls in love for the first time and for that woman he takes risks. Yi Bang-Won is the King's son. He helped his father setup the Joseon Dynasty era, but he was not picked as the Crown Prince. He still holds ambitions of becoming the King one day. Jin is Kim Min-Jae’s son and the King's son-in-law. Due to his position as the King's son-in-law, he is unable to take part in politics and only seeks out pleasure.",
+            "popularity": 58.112,
+            "poster_path": "/1aXHPI8ZvZYIEcQWf2NT5f44T0X.jpg",
+            "release_date": "2015-03-05",
+            "type": "movie",
+            "title": "Empire of Lust",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mMA2YNddowV8MZtxpbn0a7Yilum.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                10752,
+                36,
+                28,
+                18
+            ],
+            "id": 928123,
+            "original_language": "zh",
+            "original_title": "长津湖之水门桥",
+            "overview": "In the follow-up to \"The Battle At Lake Changjin\", brothers Wu Qianli and Wu Wanli undertake a new task for the People's Volunteer Army, defending a bridge part of the American troops' escape route from the advancing Chinese.",
+            "popularity": 56.488,
+            "poster_path": "/4W58wirZhbzcw2lNzRS2ErKnOGS.jpg",
+            "release_date": "2022-02-01",
+            "type": "movie",
+            "title": "The Battle at Lake Changjin: Water Gate Bridge",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qZitv5zrSXfJafGThxmvbvTsuu5.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                12,
+                36,
+                10752,
+                28
+            ],
+            "id": 652,
+            "original_language": "en",
+            "original_title": "Troy",
+            "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnom to help him get her back. Agamemnon sees this as an opportunity for power. So they set off with 1,000 ships holding 50,000 Greeks to Troy. With the help of Achilles, the Greeks are able to fight the never before defeated Trojans.",
+            "popularity": 56.079,
+            "poster_path": "/51auXjXepW1zblzhaN7CAhwvf5i.jpg",
+            "release_date": "2004-05-03",
+            "type": "movie",
+            "title": "Troy",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 9196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mTjeBGHiuJlIGK97i3gzIekT7XT.jpg",
+            "genre": "historic",
+            "genre_ids": [
+                35,
+                36,
+                10402
+            ],
+            "id": 921785,
+            "original_language": "it",
+            "original_title": "Mixed by Erry",
+            "overview": "The rise and fall of the pirate mixtape empire of three brothers from Naples, Italy, who brought pop music in the hands of a generation.",
+            "popularity": 51.648,
+            "poster_path": "/fFS7M6lD68JM3VZxrqhrCK9kBl9.jpg",
+            "release_date": "2023-03-02",
+            "type": "movie",
+            "title": "Mixed by Erry",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 81
+        }
+    ]
+}

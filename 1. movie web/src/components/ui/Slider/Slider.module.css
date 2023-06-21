@@ -1,0 +1,88 @@
+.slides {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    --bgColor: rgba(0, 0, 0, 0.25);
+    --color: #fff;
+    --activeColor: var(--main-color);
+}
+
+.btns {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--bgColor);
+    backdrop-filter: blur(10px);
+    padding: 14px;
+    border-radius: 8px;
+}
+
+.dots {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--color);
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.slider__btn {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    color: var(--color);
+    font-size: 32px;
+    transition: all 0.3s;
+}
+
+.active-dot {
+    height: 6px;
+    background-color: var(--activeColor);
+    width: 34px;
+    border-radius: 6px;
+}
+
+.dot:not(.active-dot):hover {
+    background-color: var(--activeColor);
+    opacity: 0.7;
+}
+
+.slider__btn:hover {
+    color: var(--activeColor);
+}
+
+@media (max-width: 450px) {
+    .btns {
+        width: 98%;
+        justify-content: space-between;
+    }
+    .dots {
+        flex-wrap: wrap;
+    }
+}
+
+/* .slide.to-right {
+    animation: toRight 0.5s linear;
+}
+
+@keyframes toRight {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+} */
